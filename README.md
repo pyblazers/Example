@@ -1,1 +1,1 @@
-# Legal-Blog
+# Example
